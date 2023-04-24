@@ -1,4 +1,4 @@
 # ShopProject
-# I use MvvM architect and Dagger2-Hilt 
+# I use MvvM architect and Dagger-Hilt 
 # Room Retrofit 
-# Ui with Compose and Glide for Image 
+# Ui with Jetpack Compose
